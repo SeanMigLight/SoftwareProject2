@@ -1,0 +1,20 @@
+Pizza,Meal,12.99,AVAILABLE
+Burger,Meal,8.99,AVAILABLE
+Fries,Appetizer,3.99,AVAILABLE
+Coke,Beverage,1.99,AVAILABLE
+Cake,Dessert,4.99,NOT AVAILABLE
+Tea,Beverage,1.49,AVAILABLE
+Pasta,Meal,10.99,NOT AVAILABLE
+Salad,Appetizer,5.99,AVAILABLE
+Orange Juice,Beverage,2.99,AVAILABLE
+Ice Cream,Dessert,3.49,AVAILABLE
+Garlic Bread,Appetizer,2.49,AVAILABLE
+Steak,Meal,15.99,NOT AVAILABLE
+Fish and Chips,Meal,13.99,AVAILABLE
+Water,Beverage,0.99,AVAILABLE
+Brownie,Dessert,2.99,AVAILABLE
+Spring Rolls,Appetizer,4.49,NOT AVAILABLE
+Sushi,Meal,16.99,AVAILABLE
+Lemonade,Beverage,2.49,AVAILABLE
+Nachos,Appetizer,5.49,AVAILABLE
+Cheesecake,Dessert,5.99,AVAILABLE
